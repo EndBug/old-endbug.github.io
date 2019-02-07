@@ -1,5 +1,5 @@
 <script src='/js/setup.js'></script>
-<script> setTitle("Copernicane 2019") </script>
+<script> setTimeout(setTitle("Copernicane 2019"), 050) </script>
 
 ## Grafica e programmazione per principianti
 
