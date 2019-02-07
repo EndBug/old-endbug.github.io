@@ -6,4 +6,5 @@ function loadFile(...paths) {
   }
 }
 
-loadFile('http://code.jquery.com/jquery-3.3.1.min.js');
+loadFile('http://code.jquery.com/jquery-3.3.1.min.js',
+        'setTitle.js');
