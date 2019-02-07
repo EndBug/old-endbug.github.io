@@ -6,5 +6,10 @@ function loadFile(...paths) {
   }
 }
 
-loadFile('https://code.jquery.com/jquery-3.3.1.min.js',
-        '/js/setTitle.js');
+loadFile('https://code.jquery.com/jquery-3.3.1.min.js');
+
+function setTitle(title) {
+  $().ready(() => {
+    $('.project-name').first().text(title);
+  });
+}
