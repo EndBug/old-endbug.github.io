@@ -2,7 +2,7 @@
 <script src='/js/utils.js'></script>
 <script> setTitle("Copernicane 2019") </script>
 
-## Grafica e programmazione per principianti
+# Grafica e programmazione per principianti
 
 ### • JavaScript
 
