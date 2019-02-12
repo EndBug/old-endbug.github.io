@@ -20,6 +20,9 @@ Documentazione: [p5js.org/reference](https://p5js.org/reference/)
 Web editor: [editor.p5js.org](https://editor.p5js.org/)  
 Esempi: [p5js.org/examples](https://p5js.org/examples/)  
 Guide: [p5js.org/learn](https://p5js.org/learn/)
+GitHub: [processing/p5.js](https://github.com/processing/p5.js)
+
+Daniel Shiffman: [YouTube](https://www.youtube.com/user/shiffman)
 
 Demo:
 - [Connected particles](https://editor.p5js.org/FedericoGrandi/full/HJBCVvVyE)
