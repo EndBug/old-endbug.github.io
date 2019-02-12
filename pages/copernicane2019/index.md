@@ -19,12 +19,12 @@ Sito ufficiale: [p5js.org](https://p5js.org/)
 Documentazione: [p5js.org/reference](https://p5js.org/reference/)  
 Web editor: [editor.p5js.org](https://editor.p5js.org/)  
 Esempi: [p5js.org/examples](https://p5js.org/examples/)  
-Guide: [p5js.org/learn](https://p5js.org/learn/)
+Guide: [p5js.org/learn](https://p5js.org/learn/)  
 GitHub: [processing/p5.js](https://github.com/processing/p5.js)
 
 Daniel Shiffman: [YouTube](https://www.youtube.com/user/shiffman)
 
-Demo:
+Demo:  
 - [Connected particles](https://editor.p5js.org/FedericoGrandi/full/HJBCVvVyE)
 - [Starfield](https://editor.p5js.org/FedericoGrandi/full/BJm4rDVJN)
 - [Mitosis](https://editor.p5js.org/FedericoGrandi/full/S1Tkwv4JN)
