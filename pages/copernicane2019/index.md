@@ -20,3 +20,15 @@ Documentazione: [p5js.org/reference](https://p5js.org/reference/)
 Web editor: [editor.p5js.org](https://editor.p5js.org/)  
 Esempi: [p5js.org/examples](https://p5js.org/examples/)  
 Guide: [p5js.org/learn](https://p5js.org/learn/)
+
+Demo:
+
+- [Connected particles](https://editor.p5js.org/EndBug/sketches/HJBCVvVyE)
+- [Starfield](https://editor.p5js.org/EndBug/sketches/BJm4rDVJN)
+- [Mitosis](https://editor.p5js.org/EndBug/sketches/S1Tkwv4JN)
+- [Bouncing DVD logo](https://editor.p5js.org/EndBug/sketches/-29OUvrdh)
+- [Interpolation](https://editor.p5js.org/EndBug/sketches/V5sWER3T_)
+- [Random chords](https://editor.p5js.org/EndBug/sketches/VDySchAJu)
+- [Game of life](https://editor.p5js.org/EndBug/sketches/VDySchAJu)
+- [Chasing particles](https://editor.p5js.org/EndBug/sketches/YBn9IKFgs)
+- [Mandelbrot set](https://codepen.io/phi-spindler/full/xgEMxv)
