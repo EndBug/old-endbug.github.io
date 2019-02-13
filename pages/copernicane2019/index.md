@@ -29,7 +29,7 @@ Demo:
 - [Starfield](https://editor.p5js.org/FedericoGrandi/full/BJm4rDVJN)
 - [Mitosis](https://editor.p5js.org/FedericoGrandi/full/S1Tkwv4JN)
 - [Bouncing DVD logo](https://editor.p5js.org/FedericoGrandi/full/-29OUvrdh)
-- [Bouncing ball](https://editor.p5js.org/FedericoGrandi/sketches/S1cYk3S1N)
+- [Bouncing ball](https://editor.p5js.org/FedericoGrandi/full/S1cYk3S1N)
 - [Interpolation](https://editor.p5js.org/FedericoGrandi/full/V5sWER3T_)
 - [Random chords](https://editor.p5js.org/FedericoGrandi/full/VDySchAJu)
 - [Game of life](https://editor.p5js.org/FedericoGrandi/full/VDySchAJu)
