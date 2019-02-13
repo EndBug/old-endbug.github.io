@@ -32,7 +32,7 @@ Demo:
 - [Bouncing ball](https://editor.p5js.org/FedericoGrandi/full/S1cYk3S1N)
 - [Interpolation](https://editor.p5js.org/FedericoGrandi/full/V5sWER3T_)
 - [Random chords](https://editor.p5js.org/FedericoGrandi/full/VDySchAJu)
-- [Game of life](https://editor.p5js.org/FedericoGrandi/full/VDySchAJu)
+- [Game of life](https://editor.p5js.org/FedericoGrandi/full/6Ar_HjWFe)
 - [Chasing particles](https://editor.p5js.org/FedericoGrandi/full/YBn9IKFgs)
 - [Mandelbrot set](https://codepen.io/phi-spindler/full/xgEMxv)
 - [Fourier transformations](https://editor.p5js.org/codingtrain/full/RfrZibjfL)
