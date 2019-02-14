@@ -38,3 +38,12 @@ Demo:
 - [Mandelbrot set](https://codepen.io/phi-spindler/full/xgEMxv)
 - [Fourier transformations](https://editor.p5js.org/codingtrain/full/RfrZibjfL)
 - [Fourier transformations with user input](https://editor.p5js.org/codingtrain/full/jawHqwfda)
+
+
+### Domande?
+
+Se hai altre domande puoi cercare o chiedere su [StackOverflow](https://stackoverflow.com), utilizzando il tag [p5.js](https://stackoverflow.com/questions/tagged/p5.js)  
+Se hai domande sulla libreria stessa, vuoi chiedere una nuova funzione oppure pensi ci sia un bug, puoi aprire una nuova [Issue](https://github.com/processing/p5.js/issues) su [GitHub](https://github.com/processing/p5.js)  
+Se invece trovi un problema che sei in grado di risolvere, puoi clonare il loro [repo](https://github.com/processing/p5.js) da GitHub, modificare il file interessato e aprire una Pull Request
+
+Se hai bisogno di aiuto, puoi scrivere direttamente a me tramite la mail d'istituto: grandi.federico@liceocopernico.brescia.it
