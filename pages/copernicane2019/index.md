@@ -46,4 +46,4 @@ Se hai altre domande puoi cercare o chiedere su [StackOverflow](https://stackove
 Se hai domande sulla libreria stessa, vuoi chiedere una nuova funzione oppure pensi ci sia un bug, puoi aprire una nuova [Issue](https://github.com/processing/p5.js/issues) su [GitHub](https://github.com/processing/p5.js)  
 Se invece trovi un problema che sei in grado di risolvere, puoi clonare il loro [repo](https://github.com/processing/p5.js) da GitHub, modificare il file interessato e aprire una Pull Request
 
-Se hai bisogno di aiuto, puoi scrivere direttamente a me tramite la mail d'istituto: grandi.federico@liceocopernico.brescia.it
+Se hai bisogno di aiuto, puoi scrivere direttamente a me tramite la mail d'istituto: [grandi.federico@liceocopernico.brescia.it](mailto:grandi.federico@liceocopernico.brescia.it)
